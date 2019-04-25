@@ -1,0 +1,24 @@
+body {
+	background: tomato; 
+	font-family: "Open Sans";
+}
+
+main {
+	background: tomato;
+	height: 100vh; 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.card {
+	background: white; 
+	border-radius: 5px; 
+	width: 50%; 
+	padding: 5%;
+}
+
+img[alt="mail link"] {
+	margin-right: 20px;
+}
+
